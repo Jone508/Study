@@ -36,23 +36,23 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Test\KeyTest.cs" />
-     <Compile Include="Assets\Scripts\Base\Res\ResMgr.cs" />
      <Compile Include="Assets\Scripts\Base\Pool\PoolMgr.cs" />
-     <Compile Include="Assets\Scripts\Base\Base\BaseManager.cs" />
-     <Compile Include="Assets\Scripts\Base\Event\EventCenter.cs" />
-     <Compile Include="Assets\Scripts\Test\Other.cs" />
-     <Compile Include="Assets\Scripts\Test\test.cs" />
-     <Compile Include="Assets\Scripts\Base\Mono\MonoController.cs" />
-     <Compile Include="Assets\Scripts\Base\Music\MusicMgr.cs" />
-     <Compile Include="Assets\Scripts\Test\DelayPush.cs" />
-     <Compile Include="Assets\Scripts\Base\Input\InputMgr.cs" />
      <Compile Include="Assets\Scripts\Base\Base\SingletonAutoMono.cs" />
-     <Compile Include="Assets\Scripts\Base\Mono\MonoMgr.cs" />
+     <Compile Include="Assets\Scripts\Base\Res\ResMgr.cs" />
      <Compile Include="Assets\Scripts\Test\Task.cs" />
+     <Compile Include="Assets\Scripts\Test\Other.cs" />
+     <Compile Include="Assets\Scripts\Base\Mono\MonoController.cs" />
+     <Compile Include="Assets\Scripts\Base\Mono\MonoMgr.cs" />
+     <Compile Include="Assets\Scripts\Base\Event\EventCenter.cs" />
      <Compile Include="Assets\Scripts\Test\Monster.cs" />
-     <Compile Include="Assets\Scripts\Test\Player.cs" />
+     <Compile Include="Assets\Scripts\Test\test.cs" />
+     <Compile Include="Assets\Scripts\Base\Music\MusicMgr.cs" />
      <Compile Include="Assets\Scripts\Base\Base\SingletonMono.cs" />
+     <Compile Include="Assets\Scripts\Base\Base\BaseManager.cs" />
+     <Compile Include="Assets\Scripts\Base\Input\InputMgr.cs" />
+     <Compile Include="Assets\Scripts\Test\DelayPush.cs" />
+     <Compile Include="Assets\Scripts\Test\Player.cs" />
+     <Compile Include="Assets\Scripts\Test\KeyTest.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.33f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -627,34 +627,34 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.33f1c1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>G:\2022-6-27_SummerProject\Study\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>C:\Users\Jone\Desktop\新建文件夹\Study\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

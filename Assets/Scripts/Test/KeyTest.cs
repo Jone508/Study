@@ -10,7 +10,7 @@ public class KeyTest : MonoBehaviour {
         EventCenter.GetInstance().AddEventListener<KeyCode>("某键按下", (key) => 
         {
             if (key == KeyCode.W)
-                print("======= W =======");
+                print("======= W =======+++");
         });
 	}
 }
